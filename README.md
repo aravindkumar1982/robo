@@ -3,5 +3,5 @@
 
 Contents
 1.  Frontend
-2. mongoDB
-3. 
+2.  MongoDB
+3.  Catalogue
